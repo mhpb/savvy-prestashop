@@ -1,8 +1,8 @@
 
-<h3>Savvy Integration for Prestashop</h3>
+<h3>Savvy Integration for PrestaShop</h3>
 
 <h3>What is this repo?</h3>
-This repo contains a payment plugin for WooCommerce shopping cart to support crypto currencies via Savvy. Supported currencies are Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Ethereum Classic, Litecoin, Dash, Dai, and Binance Coin.
+This repo contains a payment plugin for PrestaShop shopping cart to support crypto currencies via Savvy. Supported currencies are Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Ethereum Classic, Litecoin, Dash, Dai, and Binance Coin.
 
 Users have the opportunity to manage the currencies they would like to accept in their settings at https://www.savvy.io
 
@@ -12,7 +12,7 @@ You’re in the right place if you’re a developer or a shop owner looking to i
 Attention to PayBear users: if you have PayBear plugin installed, please [read this](https://github.com/savvytechcom/savvy-samples/wiki/Upgrading-from-V2-to-V3)
 
 <h3>Prerequisites</h3>
-Before installing the plugin please make sure you have the latest version of Prestashop installed. We support versions v1.6, v1.7
+Before installing the plugin please make sure you have the latest version of PrestaShop installed. We support versions v1.6, v1.7
 
 In order to use the plugin you will also need a Savvy API Key. Getting a key is free and easy:
 
@@ -25,9 +25,9 @@ In order to use the plugin you will also need a Savvy API Key. Getting a key is 
  
 <h3>How to install</h3>
 
-1. Make sure you have Prestashop installed. Versions 1.6 and 1.7 are supported. We recommend running the latest version.
+1. Make sure you have PrestaShop installed. Versions 1.6 and 1.7 are supported. We recommend running the latest version.
 2. Download the latest version of the integration: https://github.com/savvytechcom/savvy-prestashop/releases/latest
-3. Open Prestashop Admin - Improve - Modules - Modules & Services
+3. Open PrestaShop Admin - Improve - Modules - Modules & Services
 4. Click {Upload a Module} and select the ZIP file of the plugin
 5. Find the module you just installed and click {Configure}
 6. Enter your API keys. Click Save at the bottom.
