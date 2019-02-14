@@ -2,7 +2,7 @@
 <h3>Savvy Integration for Prestashop</h3>
 
 <h3>What is this repo?</h3>
-This repo contains a payment plugin for WooCommerce shopping cart to support crypto currencies via Savvy. Supported currencies are Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Ethereum Classic, Litecoin, Dash, Dai, and Binance Coin.
+This repo contains a payment plugin for WooCommerce shopping cart to support crypto currencies via Savvy. Supported currencies are Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Ethereum Classic, Litecoin, Dash, and Dai.
 
 Users have the opportunity to manage the currencies they would like to accept in their settings at https://www.savvy.io
 
